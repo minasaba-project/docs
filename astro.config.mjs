@@ -4,7 +4,6 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://docs.minasaba.jp',
-	base: 'docs',
 	integrations: [
 		starlight({
 			title: 'Minasaba Docs',
