@@ -1,6 +1,6 @@
 ---
 title: 特定商取引法に基づく表記
-description: 
+description: a
 ---
 
 ## 事業者名
