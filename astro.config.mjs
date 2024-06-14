@@ -11,6 +11,12 @@ export default defineConfig({
 				github: 'https://github.com/minasaba-project',
 			},
 			sidebar: [
+				{
+					label: "法的事項",
+					autogenerate: {
+						directory: "legal",
+					},
+				},
 			],
 		}),
 	],
