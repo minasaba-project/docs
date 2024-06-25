@@ -10,7 +10,7 @@ Neodyland (d.b.a. Minasaba Project)
 省略*
 
 ## 所在地
-諸略*
+省略*
 
 ## 電話番号
 050-1808-4545
